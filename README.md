@@ -5,6 +5,8 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Talduardo&theme=vue-dark&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&hide_progress=true)
+
 ## Tecnologias que uso diariamente
 
 <div style="display: inline_block"><br/>
@@ -14,7 +16,7 @@
 
 ## Um pouco sobre mim 
 
-Fascinado pro tecnologia, buscando sempre adquirir novos conhecimentos. A procura de oportunidades para colocar em execução projetos reais e inovadores. 
+🧑🏻‍💻 Fascinado pro tecnologia, buscando sempre adquirir novos conhecimentos. A procura de oportunidades para colocar em execução projetos reais e inovadores. 
 
 “A tecnologia move o mundo." Steve Jobs
-
+ 
