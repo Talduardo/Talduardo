@@ -16,7 +16,7 @@
 
 ## Um pouco sobre mim 
 
-🧑🏻‍💻 Fascinado pro tecnologia, buscando sempre adquirir novos conhecimentos. A procura de oportunidades para colocar em execução projetos reais e inovadores. 
+🧑🏻‍💻 Fascinado por tecnologia, buscando sempre adquirir novos conhecimentos. A procura de oportunidades para colocar em execução projetos reais e inovadores. 
 
 “A tecnologia move o mundo." Steve Jobs
  
