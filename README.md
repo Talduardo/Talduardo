@@ -6,7 +6,9 @@
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Talduardo&theme=vue-dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&hide_progress=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso diariamente
 
