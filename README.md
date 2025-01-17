@@ -10,7 +10,7 @@
 
 ## Gráficos com a taxa de uso das linguaguens nos meus repositórios: 
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Talduardo&theme=vue-dark&show_icons=true)
+![Eduardo GitHub stats]()
 
 
 
