@@ -14,7 +14,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&langs_count=8)
+![Top Langs]()
 
 ## Linguaguens de programação que possuo conhecimento:
 
