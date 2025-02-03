@@ -1,5 +1,26 @@
 ### Olá eu sou o Eduardo Holanda 👋
 
+
+## Skills:
+- Autoconfiante;
+- Relacionamento interpessoal;
+- Pensamento criativo;
+- Proatividade;
+- Trabalho em equipe;
+- Conhecimento técnico e aprendizado contínuo;
+- Liderança;
+- Foco em resultados;
+- Inteligência emocional;
+- Flexibilidade e adaptação a mudanças;
+- Resiliência profissional;
+- Capacidade de trabalho remoto;
+- Comprometimento;
+- Capacidade de inovação;
+- Boa comunicação;
+- Organização;
+- Aprendizagem contínua;
+- Facilidade com tecnologia.
+
 ## Social mídias: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-holanda-jacinto-39b822321/)
