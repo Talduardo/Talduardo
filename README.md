@@ -1,4 +1,5 @@
-### Olá eu sou o Eduardo Holanda 👋
+![image](https://github.com/user-attachments/assets/cec5e412-51b5-4163-a7ed-98a2e4a3b58b)  Olá eu sou o Eduardo Holanda! 
+
 
 
 ## 👨‍🎓 Skills:
@@ -21,7 +22,7 @@
 - Aprendizagem contínua;
 - Facilidade com tecnologia.
 
-## Social mídias: 
+## 🛜 Social mídias: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-holanda-jacinto-39b822321/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5588993744991)
@@ -30,7 +31,8 @@
 
 
 
-## Gráficos com a taxa de uso das linguaguens nos meus repositórios: 
+![img aling="center"](https://github.com/user-attachments/assets/468b99d2-43ac-47b2-93f6-de586ddb12d8)  Gráficos com a taxa de uso das linguaguens nos meus repositórios: 
+ 
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Talduardo&theme=vue-dark&show_icons=true)
 
@@ -39,6 +41,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&langs_count=8)
 
 ## Linguaguens de programação que possuo conhecimento:
+ 
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
