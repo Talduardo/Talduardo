@@ -1,7 +1,7 @@
 ### Olá eu sou o Eduardo Holanda 👋
 
 
-## Skills:
+## 👨‍🎓 Skills:
 - Autoconfiante;
 - Relacionamento interpessoal;
 - Pensamento criativo;
