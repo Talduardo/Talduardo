@@ -31,7 +31,9 @@
 
 
 
-![img aling="center"](https://github.com/user-attachments/assets/468b99d2-43ac-47b2-93f6-de586ddb12d8)  Gráficos com a taxa de uso das linguaguens nos meus repositórios: 
+ 
+![image](https://github.com/user-attachments/assets/2e9b809d-4922-49ae-8da0-733987011d8c) Gráficos com a taxa de uso das linguaguens nos meus repositórios: 
+
  
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Talduardo&theme=vue-dark&show_icons=true)
