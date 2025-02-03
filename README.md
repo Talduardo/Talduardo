@@ -5,11 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-holanda-jacinto-39b822321/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5588993744991)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbhDtjvfPfMdGMKxQXHNqwNFGndFtWvngXWwPJrXgBQrBxjvTBvPncTlwDSGpthkKBXHJC)
-<h1>
-    <a href="https://web.dio.me/users/eholanda60?tab=achievements">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Meu perfil da DIO </span>
-</h1>
+[<img aling="center" alt="perfil-dio" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/eholanda60?tab=achievements)
 
 
 
