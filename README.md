@@ -74,7 +74,7 @@
 
 
 
-## Um pouco sobre mim 
+## **Um pouco sobre mim:** 
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "freelancer" src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"
