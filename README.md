@@ -19,8 +19,7 @@
 - Capacidade de inovação;
 - Boa comunicação;
 - Organização;
-- Aprendizagem contínua;
-- Facilidade com tecnologia.
+- Aprendizagem contínua.
 
 ## 🛜 **Social mídias:**
 
