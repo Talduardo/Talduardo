@@ -1,5 +1,12 @@
-![image](https://github.com/user-attachments/assets/cec5e412-51b5-4163-a7ed-98a2e4a3b58b)
+![programming_resized_1024x350](https://github.com/user-attachments/assets/cec5e412-51b5-4163-a7ed-98a2e4a3b58b)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+Bem-Vindo!;Sou+o+Eduardo+Holanda!)](https://git.io/typing-svg)
+
+
+
+   # 👩🏻‍💻 Eduardo Holanda  
+   `Cientista de Dados` 
+   <br><br>
+
 
 
 ## 👨‍🎓 **Skills:**
@@ -30,7 +37,7 @@
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Talduardo&theme=vue-dark&show_icons=true)
 
 
-
+origem=("https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&langs_count=8)
 
 ## **Linguaguens de programação que possuo conhecimento:**
