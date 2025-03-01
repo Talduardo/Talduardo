@@ -28,17 +28,15 @@
 - Organização;
 - Aprendizagem contínua.
 
-
+  
+<a href="https://github.com/Talduardo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Talduardo" />
+</a>
+<a href="https://github.com/Talduardo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&card_width=320" />
+</a>
  
-![image](https://github.com/user-attachments/assets/2e9b809d-4922-49ae-8da0-733987011d8c) Gráficos com a taxa de uso das linguaguens nos meus repositórios: 
 
- 
-
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Talduardo&theme=vue-dark&show_icons=true)
-
-
-origem=("https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9")
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&langs_count=8)
 
 ## **Linguaguens de programação que possuo conhecimento:**
  
