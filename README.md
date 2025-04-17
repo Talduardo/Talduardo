@@ -5,6 +5,7 @@
 
    # 👩🏻‍💻 Eduardo Holanda  
    `Cientista de Dados` 
+   `Desenvolvedor Back-end`
    <br><br>
 
 
