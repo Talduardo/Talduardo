@@ -96,4 +96,21 @@
 ## Bolsista de imersão na empresa Unigex 
 ![image](https://github.com/user-attachments/assets/73af2397-6aca-439d-ba2a-b2547d957d34)
 
+
+## Bootcamps | Cursos: 
+
+  <img height=300 align="center" src="https://github.com/user-attachments/assets/2c7f87de-5c50-49cc-9492-7e040a3c2404" />
+</a>
+  <img height=300 align="center" src="https://github.com/user-attachments/assets/0e77c88a-171e-4335-8e0c-03cfaba9dd3a" />
+</a>
+   <img height=300 align="center" src="https://github.com/user-attachments/assets/c0dbf93b-6edd-4daa-8653-529dd69dcbfe" />
+</a>
+   <img height=300 align="center" src="https://github.com/user-attachments/assets/c1c1eebd-5f4e-4463-92d2-47546632ddd5" />
+</a>
+   
+
+
+
+
+
  
