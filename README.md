@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=180&section=header&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 ![programming_resized_1024x350](https://github.com/user-attachments/assets/cec5e412-51b5-4163-a7ed-98a2e4a3b58b)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+Bem-Vindo!;Sou+o+Eduardo+Holanda!)](https://git.io/typing-svg)
 
