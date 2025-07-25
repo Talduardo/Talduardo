@@ -107,11 +107,9 @@
 </a>
    <img height=300 align="center" src="https://github.com/user-attachments/assets/c0dbf93b-6edd-4daa-8653-529dd69dcbfe" />
 </a>
-   <img height=300 align="center" src="https://github.com/user-attachments/assets/c1c1eebd-5f4e-4463-92d2-47546632ddd5" />
+    <img width="966" height="707" alt="Captura de tela 2025-07-25 190400" src="https://github.com/user-attachments/assets/fe4eab05-0ae6-49fd-90e3-2eecc33864b4" />
 </a>
-   <img height=300 align="center" src="https://github.com/user-attachments/assets/a10d027c-6bf2-457e-8174-ec1eafe9c8cd" />
-</a>
-   
+
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
 
