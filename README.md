@@ -7,7 +7,8 @@
 
    # 👩🏻‍💻 Eduardo Holanda  
    `Cientista de Dados` 
-   `Desenvolvedor Back-end`
+   `Desenvolvedor Web`
+   `Desenvolvedor Full-Stack`
    <br><br>
 
 
