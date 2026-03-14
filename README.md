@@ -5,32 +5,13 @@
 
 
 
-   # 👩🏻‍💻 Eduardo Holanda  
+   # 👩 Eduardo Holanda  
    `Cientista de Dados` 
    `Desenvolvedor Web`
    `Desenvolvedor Full-Stack`
    <br><br>
 
 
-
-## 👨‍🎓 **Skills:**
-- Autoconfiante;
-- Relacionamento interpessoal;
-- Pensamento criativo;
-- Proatividade;
-- Trabalho em equipe;
-- Conhecimento técnico e aprendizado contínuo;
-- Liderança;
-- Foco em resultados;
-- Inteligência emocional;
-- Flexibilidade e adaptação a mudanças;
-- Resiliência profissional;
-- Capacidade de trabalho remoto;
-- Comprometimento;
-- Capacidade de inovação;
-- Boa comunicação;
-- Organização;
-- Aprendizagem contínua.
 
   
 <a href="https://github.com/Talduardo/github-readme-stats">
