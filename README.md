@@ -78,18 +78,6 @@
 ![image](https://github.com/user-attachments/assets/73af2397-6aca-439d-ba2a-b2547d957d34)
 
 
-## Bootcamps | Cursos: 
-
-  <img height=300 align="center" src="https://github.com/user-attachments/assets/2c7f87de-5c50-49cc-9492-7e040a3c2404" />
-</a>
-  <img height=300 align="center" src="https://github.com/user-attachments/assets/0e77c88a-171e-4335-8e0c-03cfaba9dd3a" />
-</a>
-   <img height=300 align="center" src="https://github.com/user-attachments/assets/c0dbf93b-6edd-4daa-8653-529dd69dcbfe" />
-</a>
-    <img width="966" height="707" alt="Captura de tela 2025-07-25 190400" src="https://github.com/user-attachments/assets/fe4eab05-0ae6-49fd-90e3-2eecc33864b4" />
-</a>
-
-
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0073CE&height=120&section=footer"/>
 
 
