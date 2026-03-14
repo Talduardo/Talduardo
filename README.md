@@ -5,7 +5,7 @@
 
 
 
-   # 👩 Eduardo Holanda  
+   #  Eduardo Holanda  
    `Cientista de Dados` 
    `Desenvolvedor Web`
    `Desenvolvedor Full-Stack`
@@ -13,10 +13,7 @@
 
 
 
-  
-<a href="https://github.com/Talduardo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Talduardo" />
-</a>
+
 <a href="https://github.com/Talduardo/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&card_width=320" />
 </a>
