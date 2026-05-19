@@ -12,15 +12,6 @@
    <br><br>
 
 
-
-
-<a href="https://github.com/Talduardo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talduardo&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9&card_width=320" />
-</a>
- 
-
-
-
 ##  **Social mídias:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-holanda-jacinto-39b822321/)
